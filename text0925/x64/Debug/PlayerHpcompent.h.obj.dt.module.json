@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "text0925\\x64\\Debug\\PlayerHpcompent.obj",
+            "outputs": [
+                "text0925\\x64\\Debug\\PlayerHpcompent.h.obj.dt.module.json",
+                "text0925\\x64\\Debug\\PlayerHpcompent.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
